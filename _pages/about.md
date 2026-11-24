@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Candidate in Computer Science · <a href='https://www.usc.edu/'>University of Southern California</a> · <a href='https://ict.usc.edu/'>USC ICT</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: brian_profile.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in Computer Science at the **University of Southern California**, advised by [Prof. Gale M. Lucas](https://ict.usc.edu/profile/gale-lucas/) at the **USC Institute for Creative Technologies**, and I work closely with [Prof. Jonathan Gratch](https://ict.usc.edu/profile/jonathan-gratch/) and [Prof. Mohammad Soleymani](https://ict.usc.edu/profile/mohammad-soleymani/). I expect to graduate in **2027**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research aims to build **socially intelligent AI agents** that understand, simulate, and shape **human decision-making and social influence** — in negotiation, persuasion, and collaboration — while staying grounded in how real people think and behave. My work spans:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **AI Agents** — multi-agent systems, strategic reasoning, tool-augmented agents, policy learning, and LLM post-training.
+- **Human-Centered AI** — human behavior simulation, persona- and personality-conditioned agents, and human-referenced evaluation of behavioral fidelity.
+- **Multimodal AI** — multimodal interaction modeling and affective computing.
+
+Before my Ph.D., I spent **four years as an ML/NLP Research Engineer on SK Telecom's Foundation Model team**, where I **pretrained foundation LLMs** from scratch and built **RAG-based long-term-memory conversational agents** for the publicly launched AI assistant _A._ I also did doctoral studies at the University of Chicago. Most recently, I was an **AI Research Intern at Honda Research Institute** (Summer 2026), working on closed-loop multi-agent human behavior simulation and human-aligned LLM post-training.

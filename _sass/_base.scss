@@ -383,8 +383,8 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
-
+    font-size: 2rem;
+    text-align: left;
     a {
       i::before {
         color: var(--global-text-color);
@@ -1303,4 +1303,36 @@ ninja-keys::part(ninja-input-wrapper) {
 ::highlight(search) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
+}
+
+// Job-market banner + highlight stats (about page)
+.job-market {
+  border-left: 4px solid var(--global-theme-color);
+  background: var(--global-code-bg-color);
+  padding: 0.9rem 1.1rem;
+  border-radius: 6px;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.highlights {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+
+  div {
+    border: 1px solid var(--global-divider-color);
+    border-radius: 8px;
+    padding: 0.8rem;
+    font-size: 0.85rem;
+    color: var(--global-text-color-light);
+  }
+
+  span {
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--global-theme-color);
+  }
 }
