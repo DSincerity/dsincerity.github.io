@@ -22,4 +22,6 @@ My research aims to build **socially intelligent AI agents** that understand, si
 - **Human-Centered AI** — human behavior simulation, persona- and personality-conditioned agents, and human-referenced evaluation of behavioral fidelity.
 - **Multimodal AI** — multimodal interaction modeling and affective computing.
 
+I am a **founding organizer** of the [Workshop on Social Influence in Conversations (SICon)](https://aclanthology.org/venues/sicon/), which I have co-organized for all three editions to date — **ACL 2023, EMNLP 2024, and ACL 2025** (Program Chair, 2025).
+
 Before my Ph.D., I spent **four years as an ML/NLP Research Engineer on SK Telecom's Foundation Model team**, where I **pretrained foundation LLMs** from scratch and built **RAG-based long-term-memory conversational agents** for the publicly launched AI assistant _A._ I also did doctoral studies at the University of Chicago. Most recently, I was an **AI Research Intern at Honda Research Institute** (Summer 2026), working on closed-loop multi-agent human behavior simulation and human-aligned LLM post-training.
