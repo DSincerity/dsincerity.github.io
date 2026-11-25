@@ -1,16 +1,26 @@
 "EMNLP":
-  color: "#b31b1b"
+  color: "#2f4858"
 "ACL":
-  color: "#c2185b"
+  color: "#3d405b"
 "AAAI":
-  color: "#1a5fb4"
+  color: "#4a5a75"
 "AAAI-W":
-  color: "#4a7fc1"
+  color: "#7a8599"
 "COLING":
-  color: "#2e7d32"
+  color: "#52796f"
 "IVA":
-  color: "#6a1b9a"
+  color: "#6d597a"
 "COPSYC":
-  color: "#00695c"
+  color: "#8d7b68"
 "IACM":
-  color: "#5d4037"
+  color: "#9c6644"
+"TASM":
+  color: "#6b7280"
+"IEEE TEM":
+  color: "#6b7280"
+"TFSC":
+  color: "#6b7280"
+"ESWA":
+  color: "#6b7280"
+"JCP":
+  color: "#6b7280"
