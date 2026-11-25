@@ -6,7 +6,7 @@ importance: 3
 category: human-centered
 ---
 
-**Question.** When LLM agents simulate people, do they actually *behave* like people — or just produce plausible text?
+**Question.** When LLM agents simulate people, do they actually _behave_ like people — or just produce plausible text?
 
 **Work.**
 
