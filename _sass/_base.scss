@@ -1349,3 +1349,11 @@ ninja-keys::part(ninja-input-wrapper) {
     color: var(--global-theme-color);
   }
 }
+
+// About page section headers
+h2.section-title {
+  margin-top: 2.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  font-weight: 500;
+}
